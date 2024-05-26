@@ -1,0 +1,14 @@
+html[lang="uk"] {
+	#uaButton {
+		pointer-events: none;
+		border: 2px solid $lightColorLink;
+		color: $lightColorLink;
+	}
+}
+html[lang="en-US"] {
+	#enButton {
+		pointer-events: none;
+		border: 2px solid $lightColorLink;
+		color: $lightColorLink;
+	}
+}
